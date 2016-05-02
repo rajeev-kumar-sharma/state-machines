@@ -1,0 +1,25 @@
+{
+  "name": "state-machines",
+  "version": "0.0.0",
+  "description": "State Machine Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeevkumarsharma/state-machines.git"
+  },
+  "keywords": [
+    "state-machines",
+    "state-machine",
+    "state machines",
+    "state machine"
+  ],
+  "author": "Rajeev Kumar Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajeevkumarsharma/state-machines/issues"
+  },
+  "homepage": "https://github.com/rajeevkumarsharma/state-machines#readme"
+}
